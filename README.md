@@ -22,4 +22,10 @@ This program clustering customers by two indications: Annual Income and Spending
 <div align="center"><img width="400" height="190" src=".\img\abra_cadabra.png"/></div>
 <p>Here we see how this program clustered our customers and at this point we can draw conclusions... </p>
 <p>But I suggest we look at the kitty.</p>
-<img src=".\img\very_very_important_photo.jpg"/>
+<div align="center"><img src=".\img\very_very_important_photo.jpg"/></div>
+<p>But if you want it you get it.</p>
+<h1 align="center">Conclusion</h1>
+<p>Some people earn more than others but spend less, some, on the contrary earn less than others but spend more.</p>
+<p>It is what it is.</p>
+<h2>Thanks for watching! :)</h2>
+<h3>Source of data: <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">CLICK</a></h3>
