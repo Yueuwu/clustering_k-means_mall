@@ -36,8 +36,8 @@ plt.show()
 # pd.set_option('display.max_columns', None)
 # print(df.groupby('cluster').mean())
 #
-# clusters = (0, 1, 2, 3, 4)  # индексы кластеров
-# colors = ('r', 'y', 'g', 'b', 'c')  # красный, желтый, зеленый, синий
+# clusters = (0, 1, 2, 3, 4)
+# colors = ('r', 'y', 'g', 'b', 'c')
 # # кластеры
 # for cl, color in zip(clusters, colors):
 #     plt.scatter(X[df['cluster'] == cl, 0], X[df['cluster'] == cl, 1],
