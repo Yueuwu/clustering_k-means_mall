@@ -17,3 +17,9 @@ This program clustering customers by two indications: Annual Income and Spending
 <p>So it means that we take this value as number of clusters.</p>
 <p>Since we know count of clusters and necessary information, we can try figure clusters out and display it!</p>
 <div align="center"><img src=".\img\clustering done.png" width="400" height="350"/></div>
+<p>Well, we got beautiful picture for my desktop background, however, what is that means?</p>
+<p>Let's look at the following image.</p>
+<div align="center"><img width="400" height="190" src=".\img\abra_cadabra.png"/></div>
+<p>Here we see how this program clustered our customers and at this point we can draw conclusions... </p>
+<p>But I suggest we look at the kitty.</p>
+<img src=".\img\very_very_important_photo.jpg"/>
